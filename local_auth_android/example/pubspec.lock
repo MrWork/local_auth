@@ -116,9 +116,10 @@ packages:
   local_auth_platform_interface:
     dependency: "direct main"
     description:
-      path: "../../local_auth_platform_interface"
-      relative: true
-    source: path
+      name: local_auth_platform_interface
+      sha256: "9e160d59ef0743e35f1b50f4fb84dc64f55676b1b8071e319ef35e7f3bc13367"
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.7"
   matcher:
     dependency: transitive
