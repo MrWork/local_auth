@@ -134,6 +134,10 @@ json_annotation
 2.19
 file:///Users/mike/.pub-cache/hosted/pub.dev/json_annotation-4.8.1/
 file:///Users/mike/.pub-cache/hosted/pub.dev/json_annotation-4.8.1/lib/
+local_auth_platform_interface
+2.14
+file:///Users/mike/.pub-cache/hosted/pub.dev/local_auth_platform_interface-1.0.7/
+file:///Users/mike/.pub-cache/hosted/pub.dev/local_auth_platform_interface-1.0.7/lib/
 logging
 2.18
 file:///Users/mike/.pub-cache/hosted/pub.dev/logging-1.1.1/
@@ -274,10 +278,6 @@ local_auth_ios
 2.18
 file:///Users/mike/Sites/local_auth/local_auth_ios/
 file:///Users/mike/Sites/local_auth/local_auth_ios/lib/
-local_auth_platform_interface
-2.18
-file:///Users/mike/Sites/local_auth/local_auth_platform_interface/
-file:///Users/mike/Sites/local_auth/local_auth_platform_interface/lib/
 local_auth_windows
 2.18
 file:///Users/mike/Sites/local_auth/local_auth_windows/

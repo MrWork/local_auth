@@ -177,9 +177,9 @@
     },
     {
       "name": "local_auth_platform_interface",
-      "rootUri": "../../local_auth_platform_interface",
+      "rootUri": "file:///Users/mike/.pub-cache/hosted/pub.dev/local_auth_platform_interface-1.0.7",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.14"
     },
     {
       "name": "local_auth_windows",
@@ -350,7 +350,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-05-17T20:04:55.340978Z",
+  "generated": "2023-05-17T20:20:07.229932Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }
