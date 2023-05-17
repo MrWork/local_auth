@@ -243,13 +243,13 @@
     },
     {
       "name": "local_auth_android",
-      "rootUri": "../../../local_auth_android",
+      "rootUri": "file:///Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_android",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "local_auth_ios",
-      "rootUri": "../../../local_auth_ios",
+      "rootUri": "file:///Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_ios",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "local_auth_windows",
-      "rootUri": "../../../local_auth_windows",
+      "rootUri": "file:///Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_windows",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -464,7 +464,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-05-17T20:20:07.386856Z",
+  "generated": "2023-05-17T20:23:36.122406Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

@@ -308,16 +308,20 @@ packages:
   local_auth_android:
     dependency: "direct main"
     description:
-      path: "../../local_auth_android"
-      relative: true
-    source: path
+      path: local_auth_android
+      ref: main
+      resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
+      url: "https://github.com/mdeimert/local_auth.git"
+    source: git
     version: "1.0.28"
   local_auth_ios:
     dependency: "direct main"
     description:
-      path: "../../local_auth_ios"
-      relative: true
-    source: path
+      path: local_auth_ios
+      ref: main
+      resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
+      url: "https://github.com/mdeimert/local_auth.git"
+    source: git
     version: "1.1.2"
   local_auth_platform_interface:
     dependency: transitive
@@ -330,9 +334,11 @@ packages:
   local_auth_windows:
     dependency: transitive
     description:
-      path: "../../local_auth_windows"
-      relative: true
-    source: path
+      path: local_auth_windows
+      ref: main
+      resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
+      url: "https://github.com/mdeimert/local_auth.git"
+    source: git
     version: "1.0.8"
   logging:
     dependency: transitive

@@ -17,9 +17,15 @@ dependencies:
     # the parent directory to use the current plugin's version.
     path: ../
   local_auth_android:
-    path: ../../local_auth_android/
+    git:
+      url: https://github.com/mdeimert/local_auth.git
+      ref: main
+      path: local_auth_android
   local_auth_ios:
-    path: ../../local_auth_ios/
+    git:
+      url: https://github.com/mdeimert/local_auth.git
+      ref: main
+      path: local_auth_ios
 
 dev_dependencies:
   build_runner: ^2.1.10

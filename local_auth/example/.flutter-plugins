@@ -2,6 +2,6 @@
 flutter_plugin_android_lifecycle=/Users/mike/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.14/
 integration_test=/Users/mike/flutter/packages/integration_test/
 local_auth=/Users/mike/Sites/local_auth/local_auth/
-local_auth_android=/Users/mike/Sites/local_auth/local_auth_android/
-local_auth_ios=/Users/mike/Sites/local_auth/local_auth_ios/
-local_auth_windows=/Users/mike/Sites/local_auth/local_auth_windows/
+local_auth_android=/Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_android/
+local_auth_ios=/Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_ios/
+local_auth_windows=/Users/mike/.pub-cache/git/local_auth-047f73d0410c257c530187980b6fd61a5e98bffd/local_auth_windows/
