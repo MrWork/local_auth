@@ -311,7 +311,7 @@ packages:
       path: local_auth_android
       ref: main
       resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
-      url: "https://github.com/mdeimert/local_auth.git"
+      url: "https://github.com/MrWork/local_auth.git"
     source: git
     version: "1.0.28"
   local_auth_ios:
@@ -320,7 +320,7 @@ packages:
       path: local_auth_ios
       ref: main
       resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
-      url: "https://github.com/mdeimert/local_auth.git"
+      url: "https://github.com/MrWork/local_auth.git"
     source: git
     version: "1.1.2"
   local_auth_platform_interface:
@@ -337,7 +337,7 @@ packages:
       path: local_auth_windows
       ref: main
       resolved-ref: "047f73d0410c257c530187980b6fd61a5e98bffd"
-      url: "https://github.com/mdeimert/local_auth.git"
+      url: "https://github.com/MrWork/local_auth.git"
     source: git
     version: "1.0.8"
   logging:
